@@ -1,6 +1,6 @@
-<img align="centre" src="https://github.com/m4mallu/m4mallu/blob/main/img/header.png">
+<img align="centre" src="https://telegra.ph/file/e7a7798a703577a4662d7.jpg">
 
-<p align="left"> <a href="https://github.com/m4mallu"><img src="https://komarev.com/ghpvc/?username=Vaibhav-08&label=Profile%20views&color=0e75b6&style=flat" alt="m4mallu" /></a> </p>
+<p align="left"> <a href="https://github.com/aliyefhx"><img src="https://komarev.com/ghpvc/?username=Vaibhav-08&label=Profile%20views&color=0e75b6&style=flat" alt="aliyefhx" /></a> </p>
 
 <details>
   <summary><b>About</b></summary>
@@ -14,10 +14,10 @@
   <summary><b>Connect with me</b></summary>
   <br/>
 <p align="left">
-    <a href="https://t.me/space4renjith"><img height="35px" src="https://img.icons8.com/fluent/48/000000/telegram-app.png" /></a>
-    <a href="https://twitter.com/space4renjith"><img height="35px" src="https://img.icons8.com/fluent/48/000000/twitter.png" /></a>
-    <a href="mailto:renju700@gmail.com"><img height="35px" src="https://img.icons8.com/color/48/000000/gmail-new.png" /></a>
-    <a href="https://github.com/m4mallu"><img height="35px" src="https://img.icons8.com/ios-filled/50/000000/github.png" /></a>
+    <a href="https://t.me/aliyefh_sos"><img height="35px" src="https://img.icons8.com/fluent/48/000000/telegram-app.png" /></a>
+    <a href="https://twitter.com/aliyefh_sos"><img height="35px" src="https://img.icons8.com/fluent/48/000000/twitter.png" /></a>
+    <a href="aliyefhsos@gmail.com"><img height="35px" src="https://img.icons8.com/color/48/000000/gmail-new.png" /></a>
+    <a href="https://github.com/aliyefh_sos"><img height="35px" src="https://img.icons8.com/ios-filled/50/000000/github.png" /></a>
     </p>
 </details>
 
@@ -60,7 +60,7 @@
   <summary><b>Project Updates</b></summary>
   <br/>
   <p align="left">
-      <a href="https://t.me/rmprojects" target="_blank"> <img src="https://img.shields.io/badge/Project-Updates-orange" logo="Telegram"></a>
+      <a href="https://t.me/aliyefh_sos" target="_blank"> <img src="https://img.shields.io/badge/Project-Updates-orange" logo="Telegram"></a>
     </p>
 </details>
 
@@ -69,9 +69,9 @@
   <summary><b>My Github statistics</b></summary>
   <br/>
   <p align="left">
-    <a href="https://github.com/m4mallu">
+    <a href="https://github.com/aliyefhx">
         <img width="49%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=m4mallu&count_private=False&show_icons=true&title_color=30F229&icon_color=F2F407&text_color=F9F9F9&bg_color=1F222E&hide_border=true"/>
-        <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=m4mallu&theme=ayu-mirage&hide_border=true"/>
+        <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=aliyefhx=ayu-mirage&hide_border=true"/>
     </a>
 </p>
 </details>
