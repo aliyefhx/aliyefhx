@@ -1,4 +1,4 @@
-<img align="centre" src="https://telegra.ph/file/e7a7798a703577a4662d7.jpg">
+<img align="centre" src="https://t.me/trapmuzichd/16">
 
 <p align="left"> <a href="https://github.com/aliyefhx"><img src="https://komarev.com/ghpvc/?username=Vaibhav-08&label=Profile%20views&color=0e75b6&style=flat" alt="aliyefhx" /></a> </p>
 
